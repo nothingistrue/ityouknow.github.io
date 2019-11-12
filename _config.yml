@@ -133,38 +133,38 @@ menus:
 #
 #
 ## labels. my blog key words
-#labels:
-#
-#  -
-#    href: /payment.html
-#    label: Pay     
-#    target: _self
-#
-#  -
-#    href: /fastdfs.html
-#    label: FastDFS
-#    target: _blank
-#
-#  -
-#    href: /mongodb.html
-#    label: MongoDB
-#    target: _blank
-#
-#  -
-#    href: /docker.html
-#    label: Docker
-#    target: _blank
-#
-#  -
-#    href: /open-source.html
-#    label: Code  
-#    target: _blank
-#
-#  -
-#    href: /gitchat.html
-#    label: Chat
-#    target: _blank
-#
+labels:
+
+  -
+    href: /payment.html
+    label: Pay     
+    target: _self
+
+  -
+    href: /fastdfs.html
+    label: FastDFS
+    target: _blank
+
+  -
+    href: /mongodb.html
+    label: MongoDB
+    target: _blank
+
+  -
+    href: /docker.html
+    label: Docker
+    target: _blank
+
+  -
+    href: /open-source.html
+    label: Code  
+    target: _blank
+
+  -
+    href: /gitchat.html
+    label: Chat
+    target: _blank
+
 #
 ## selected articles
 #classes:
